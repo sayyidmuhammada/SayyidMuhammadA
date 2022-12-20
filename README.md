@@ -3,4 +3,4 @@ I created this project with my own idea and also this project will help develope
 
 [![@sayyidmuhammad878's Holopin board](https://holopin.me/sayyidmuhammad878)](https://holopin.io/@sayyidmuhammad878)
 
-[![Muhammad github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sayyidmuhammada&theme=github)]
+![Muhammad github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sayyidmuhammada&theme=github)
