@@ -1,4 +1,4 @@
-### Hi 👋 there! I'm a Front end Engineer with a passion for building applications and solving problems. I'm always looking for new challenges and opportunities to learn and grow.
+Hi 👋 there! I'm a Front end Engineer with a passion for building applications and solving problems. I'm always looking for new challenges and opportunities to learn and grow.
 
 ## Most top Skills:
   1. Next.js
